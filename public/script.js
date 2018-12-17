@@ -5,7 +5,7 @@ $(document).ready(function() {
   var submitElement = $("#guestbook-submit");
   var entryContentElement = $("#guestbook-entry-content");
   var hostAddressElement = $("#guestbook-host-address");
-  var a=10;
+  
   
 
   var appendGuestbookEntries = function(data) {
